@@ -7,123 +7,100 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Michael O'Reilly
+    tagline: Technical Architect
+    avatar: myAvatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: mjj.oreilly@gmail.com
+    phone: +44 7734721975
+    website:  #do not add http://
+    linkedin: michael-o-reilly-0a441222
+    github: mjjdbx
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@bigheadoreilly'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     interests:
-      - item: Climbing
+      - item: Aviation
         link:
 
-      - item: Snowboarding
+      - item: Football
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      A passionate problem solver with a proven track record in delivery of large scale and complex systems. A broad technical skillset that includes experience and expertise in scripted and object orientated languages, client/backend frameworks, DevOps, CI/CD platforms, instrumentation and analytics. Highly skilled in many software and product delivery methods such as Lean, Agile, Exploratory and Continuous Delivery. A strong advocate of product over project skilled in product management. Values humility, empathy, integrity and believes in the power of investing in people and the principles of XP (communication, feedback, simplicity, respect and courage).
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: University of Ulster
+      time: 2001 - 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        Acheived 1st class with honours. 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technical Architect
+      time: Jan 2018 - Present
+      company: Liberty IT, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Role and Responsibilities
+        Architect aligned to Platform development and modernisation within LIT's architecture team.
+         - To support the technical direction of Liberty ITs Digital Transformation vision. To provide thought leadership.
+         - To provide architectural support and guidance for Liberty IT's Horizon unit containing 8 development squads.
+         - To partner with the units leadership and support structures to drive high standards in execution and delivery.
+         - To own technical consultancy with exiting and potential customers to solve customer problems and bring work into the organisation.
+         - To work with teams in the wider organisation, supporting technical initiatives and events.
+         - To provide updates to executive teams and other organisational architecture groups.
 
-          - Bullet point
-          - Bullet point 
+        Recent Projects
+        Modernising a traditional SOA stack to Micro-services leveraging latest modern cloud technology (AWS, PaaS, DBaaS) React Node.js 
+        SpringBoot, SpringCloud, Docker, Reddis, MongoDB. Leading our teams working with business teams on and off site to modernise their 
+        capabilities and building scaled customer focused solutions and delivering them to market with speed and quality.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technologist
+      time: Jan 2014 - Jan 2018
+      company: Liberty IT, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Role and Responsibilities
+         - Drive technical best practices within my aligned unit.
+         - Create and drive technical strategies aligned to the vision of the LIT organisation.
+         - Develop engineers capabilities and skills.
+         - Remove barriers to entry for emerging tech in helping our teams adopt new tech.
+         - Lead consistent high quality solutions to business problems.
+         - Review and consult in all technical decisions within the aligned unit.
 
-          - Bullet point
-          - Bullet point
+         Notable Projects
+         Online Policy Change A scaled enterprise application enabling the online endorsement of insurance policies across 48 US states. 
+         Responsive single page applications integrated with large Java based Service Orientated Architecture. One of Liberty Mutuals most complex systems.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Principal Software Engineer
+      time: Apr 2011 - Jan 2014
+      company: Liberty IT, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Role and Responsibilities
+          - Providing Technical oversight of the analysis and design for assigned projects
+          - Designing and development of tests and software solutions including development of highly complex systems architecture, and modifications to existing systems
+          - Leading quality assurance coding and design review
+          - Providing technical leadership within the project team, including coaching and mentoring team members, inspections and reviews and introduction of best practice
+          - Identification and escalation of project risks and issues
+          - Contribution to innovation and LIT’s organization change initiatives
 
-          - Bullet point
-          - Bullet point
+          Summary
+          During my time as a PSE, I operated mainly as a front-end development subject matter expert and as a project technical lead within a large Internet Based Application Development Team. 
+          Architectural Responsibility for the development of Enterprise Single Page Applications and Java based Web Applications for Liberty Mutual Insurance. Responsibilities included ownership of systems analysis, design, 
+          Implementation and production support of these web application products. I have been a core part of contributing to as well as driving the Technical Direction of the underlying Web Platform. Overall I have contributed 
+          to a highly successful team that put in place lots of quality based initiatives that have gone on to be adopted by the wider market. These successes have largely facilitated my transition to technologist within the team.
 
 projects:
     title: Projects
