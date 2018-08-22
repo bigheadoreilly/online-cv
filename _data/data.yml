@@ -40,7 +40,11 @@ sidebar:
 career-profile:
     title: Michael in a Nutshell
     summary: |
-      A passionate problem solver with a proven track record in delivery of large scale and complex systems. A broad technical skillset that includes experience and expertise in scripted and object orientated languages, client/backend frameworks, DevOps, CI/CD platforms, instrumentation and analytics. Highly skilled in many software and product delivery methods such as Lean, Agile, Exploratory and Continuous Delivery. A strong advocate of product over project skilled in product management. Values humility, empathy, integrity and believes in the power of investing in people and the principles of XP (communication, feedback, simplicity, respect and courage).
+      A passionate problem solver with a proven track record in delivery of large scale and complex systems. A broad technical skillset that includes experience and expertise 
+      in scripted and object orientated languages, client/backend frameworks, DevOps, CI/CD platforms, instrumentation and analytics. 
+      Highly skilled in many software and product delivery methods such as Lean, Agile, Exploratory and Continuous Delivery. 
+      A strong advocate of product over project skilled in product management. Values humility, empathy, integrity and believes in the power of investing in people and the 
+      principles of XP (communication, feedback, simplicity, respect and courage).
 
 education:
     - degree: BSc in Computer Science
@@ -64,12 +68,6 @@ experiences:
          - To work with teams in the wider organisation, supporting technical initiatives and events.
          - To provide updates to executive teams and other organisational architecture groups.
 
-        <b>Recent Projects </b>
-
-        Modernising a traditional SOA stack to Micro-services leveraging latest modern cloud technology (AWS, PaaS, DBaaS) React Node.js 
-        SpringBoot, SpringCloud, Docker, Reddis, MongoDB. Leading our teams working with business teams on and off site to modernise their 
-        capabilities and building scaled customer focused solutions and delivering them to market with speed and quality.
-
     - role: Technologist
       time: Jan 2014 - Jan 2018
       company: Liberty IT, Belfast
@@ -82,11 +80,6 @@ experiences:
          - Remove barriers to entry for emerging tech in helping our teams adopt new tech.
          - Lead consistent high quality solutions to business problems.
          - Review and consult in all technical decisions within the aligned unit.
-
-         <b>Notable Projects</b>
-
-         Online Policy Change A scaled enterprise application enabling the online endorsement of insurance policies across 48 US states. 
-         Responsive single page applications integrated with large Java based Service Orientated Architecture. One of Liberty Mutuals most complex systems.
 
     - role: Principal Software Engineer
       time: Apr 2011 - Jan 2014
@@ -101,82 +94,69 @@ experiences:
           - Identification and escalation of project risks and issues
           - Contribution to innovation and LIT’s organization change initiatives
 
-          <b>Summary</b>
-
-          During my time as a PSE, I operated mainly as a front-end development subject matter expert and as a project technical lead within a large Internet Based Application Development Team. 
-          Architectural Responsibility for the development of Enterprise Single Page Applications and Java based Web Applications for Liberty Mutual Insurance. Responsibilities included ownership of systems analysis, design, 
-          Implementation and production support of these web application products. I have been a core part of contributing to as well as driving the Technical Direction of the underlying Web Platform. Overall I have contributed 
-          to a highly successful team that put in place lots of quality based initiatives that have gone on to be adopted by the wider market. These successes have largely facilitated my transition to technologist within the team.
-
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Throughout my 13 years in sofware development I have been involved in many different types of project
+      and product development efforts. Below are some of my more recent assignments.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Eccommerce Service Tier Modernisation
+        link: "https://eservice.libertymutual.com/"
+        tagline: "An effort to improve the cost effectiveness and performance of the existing enterprise SOA through redevelopment leveraging cloud (PaaS, IaaS) and microservice designs."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Coverage Compass
+        link: ""
+        tagline: "A cross selling application that required full stack development leveraging Node.js React Redux (Isomorphic), express and several different types of integration with existing systems."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Online Policy Change
+        link: ""
+        tagline: "An enterprise scale application for endorsing insurance policies online for 5 million active policies.  Complex Single Page app architecture built on top of a large SOA with hundreds of complex integrations."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Performance, Security, Stability Operations (PSSO)
+        link: ""
+        tagline: "A effort to transform and modernise internal development efforts to leverage, automation, instrumentation and agile methods to improve the overall quality, security, performance and stability of running systems and software."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Platform Unit (Horizon)
+        link: 
+        tagline: "In partnership with the leadership and support teams create a functional unit that specialises in platform and product development.  Set architectural and techncial strategy for driving the success of the unit."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript, Node.js, React
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Cloud Engineering (PaaS, SaaS)
+        level: 70%
+      
+      - name: Serverless
+        level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Agile/Lean Delivery Methods
+        level: 75%
 
-      - name: Ruby on Rails
+      - name: Testing Practices
+        level: 75%
+
+      - name: Architecture and Design
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: DevOps
+        level: 70%
+
+      - name: Golang
+        level: 30%
+
+      - name: PHP
         level: 60%
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
