@@ -101,6 +101,10 @@ projects:
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
+      - title: Auto Damage Inspection Colombia
+        link: ""
+        tagline: "Mobile client and agent application leveraging serverless architecture and applied artifical intelligence to auto inspect vehicles for damage."
+        
       - title: Eccommerce Service Tier Modernisation
         link: "https://eservice.libertymutual.com/"
         tagline: "An effort to improve the cost effectiveness and performance of the existing enterprise SOA through redevelopment leveraging cloud (PaaS, IaaS) and microservice designs."
