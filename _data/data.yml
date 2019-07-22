@@ -101,6 +101,10 @@ projects:
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
+      - title: Serverless Policy Endorsements
+        link: ""
+        tagline: "An effort to build apps and api's leveraging AWS serverless technology for endorsing insurance policies online."
+
       - title: Auto Damage Inspection Colombia
         link: ""
         tagline: "Mobile client and agent application leveraging serverless architecture and applied artifical intelligence to auto inspect vehicles for damage."
@@ -112,14 +116,6 @@ projects:
       - title: Coverage Compass
         link: ""
         tagline: "A cross selling application that required full stack development leveraging Node.js React Redux (Isomorphic), express and several different types of integration with existing systems."
-
-      - title: Online Policy Change
-        link: ""
-        tagline: "An enterprise scale application for endorsing insurance policies online for 5 million active policies.  Complex Single Page app architecture built on top of a large SOA with hundreds of complex integrations."
-
-      - title: Performance, Security, Stability Operations (PSSO)
-        link: ""
-        tagline: "A effort to transform and modernise internal development efforts to leverage, automation, instrumentation and agile methods to improve the overall quality, security, performance and stability of running systems and software."
 
       - title: Platform Unit (Horizon)
         link: 
@@ -136,11 +132,11 @@ skills:
       - name: Javascript, Node.js, React
         level: 75%
 
-      - name: Cloud Engineering (PaaS, SaaS)
+      - name: Cloud Engineering
         level: 70%
       
-      - name: Serverless
-        level: 60%
+      - name: Serverless (Managed Cloud Native services on AWS (AppSync, Lambda, WebAPI Gateway, DynamoDB etc))
+        level: 90%
 
       - name: Agile/Lean Delivery Methods
         level: 75%
