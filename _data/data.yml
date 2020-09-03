@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Michael O'Reilly
     tagline: Technical Architect
-    avatar: mike-avatar-pic.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mjj.oreilly@gmail.com
@@ -97,10 +97,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Throughout my 13 years in sofware development I have been involved in many different types of project
+      Throughout my 15 years in sofware development I have been involved in many different types of project
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
+      - title: Architecture Consultant
+        link: ""
+        tagline: "Working with various teams to develop their business and technical strategies leveraging many various frameworks and techniques."
+
       - title: Serverless Policy Endorsements
         link: ""
         tagline: "An effort to build apps and api's leveraging AWS serverless technology for endorsing insurance policies online."
@@ -126,22 +130,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java
-        level: 75%
+      - name: Rapid Development (Serverless/Cloud Native)
+        level: 90%
 
       - name: Javascript, Node.js, React
         level: 75%
 
-      - name: Cloud Engineering
-        level: 70%
-      
-      - name: Serverless (Managed Cloud Native services on AWS (AppSync, Lambda, WebAPI Gateway, DynamoDB etc))
+      - name: Cloud Engineering Consultancy
         level: 90%
 
       - name: Agile/Lean Delivery Methods
         level: 75%
 
-      - name: Testing Practices
+      - name: Software Testing Practices and Disciplines
         level: 75%
 
       - name: Architecture and Design
