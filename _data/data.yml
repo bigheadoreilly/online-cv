@@ -151,12 +151,8 @@ skills:
       - name: DevOps
         level: 70%
 
-      - name: Golang
-        level: 30%
-
-      - name: PHP
-        level: 60%
-
+      - name: Java
+        level: 80%
 
 
 footer: >
