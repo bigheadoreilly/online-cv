@@ -38,7 +38,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Personal Summary
+    title: My Career Profile
     summary: |
       A passionate problem solver with a proven track record in delivery of large scale and complex systems. A broad technical skillset that includes experience and expertise 
       in scripted and object orientated languages, client/backend frameworks, DevOps, CI/CD platforms, instrumentation and analytics. 
@@ -153,12 +153,8 @@ skills:
       - name: DevOps
         level: 70%
 
-      - name: Golang
-        level: 30%
-
-      - name: PHP
-        level: 60%
-
+      - name: Java
+        level: 80%
 
 
 footer: >
