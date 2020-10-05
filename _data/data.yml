@@ -34,17 +34,23 @@ sidebar:
       - item: Cloud Engineering
         link:
 
-      - item: Reading
+      - item: Reading & Podcasts
         link:
 
 career-profile:
-    title: Michael in a Nutshell
+    title: Personal Summary
     summary: |
       A passionate problem solver with a proven track record in delivery of large scale and complex systems. A broad technical skillset that includes experience and expertise 
       in scripted and object orientated languages, client/backend frameworks, DevOps, CI/CD platforms, instrumentation and analytics. 
       Highly skilled in many software and product delivery methods such as Lean, Agile, Exploratory and Continuous Delivery. 
       A strong advocate of product over project skilled in product management. Values humility, empathy, integrity and believes in the power of investing in people and the 
       principles of XP (communication, feedback, simplicity, respect and courage).
+
+      For the last two years I have been part of an enterprise technical modernisation programme charged with moving teams and workloads from traditional n-tiered architecture to cloud native implementations (primarily serverless).
+      During this period I have taken on roles such as Solutions Architect, Engineer, Product Owner and Technical & Business Coach, overcoming significant technical and organisational challenges along the way.
+      As well as developing core architectural skills for the serverless paradigm I have also really enjoyed developing my leadership and strategy consultancy skills such as Wardley Maps, Strategy Cycles, Event Storming and North Stars Playbook.
+      Using these skills in bringing IT and Engineering and the Business together has helped me progress in building productive relationships solidified through great business outcomes.
+      
 
 education:
     - degree: BSc in Computer Science
@@ -101,9 +107,9 @@ projects:
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
-      - title: Architecture Consultant
+      - title: Technical Architecture Modernisation
         link: ""
-        tagline: "Working with various teams to develop their business and technical strategies leveraging many various frameworks and techniques."
+        tagline: "Working with all teams to develop their business and technical strategies leveraging many various strategic frameworks and techniques along with migration of workloads and skillsets to the cloud."
 
       - title: Serverless Policy Endorsements
         link: ""
@@ -116,10 +122,6 @@ projects:
       - title: Eccommerce Service Tier Modernisation
         link: "https://eservice.libertymutual.com/"
         tagline: "An effort to improve the cost effectiveness and performance of the existing enterprise SOA through redevelopment leveraging cloud (PaaS, IaaS) and microservice designs."
-
-      - title: Coverage Compass
-        link: ""
-        tagline: "A cross selling application that required full stack development leveraging Node.js React Redux (Isomorphic), express and several different types of integration with existing systems."
 
       - title: Platform Unit (Horizon)
         link: 
