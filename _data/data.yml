@@ -28,20 +28,17 @@ sidebar:
         level: Native
         
     interests:
-      - item: Aviation
+      - item: Technology
         link:
 
       - item: Cloud Engineering
-        link:
-
-      - item: Reading & Podcasts
         link:
 
 career-profile:
     title: My Career Profile
     summary: |
       A passionate problem solver with a proven track record in delivery of large scale and complex systems. A broad technical skillset that includes experience and expertise 
-      in scripted and object orientated languages, client/backend frameworks, DevOps, CI/CD platforms, instrumentation and analytics. 
+      in Cloud Native Development with Well Architected Serverless product and service implementations. 
       Highly skilled in many software and product delivery methods such as Lean, Agile, Exploratory and Continuous Delivery. 
       A strong advocate of product over project skilled in product management. Values humility, empathy, integrity and believes in the power of investing in people and the 
       principles of XP (communication, feedback, simplicity, respect and courage).
@@ -66,11 +63,14 @@ experiences:
       details: |
         <b>Role and Responsibilities</b>
 
-        Architect aligned to Platform development and modernisation within LIT's architecture team.
-         - To support the technical direction of Liberty ITs Digital Transformation vision. To provide thought leadership.
-         - To provide architectural support and guidance for Liberty IT's Horizon unit containing 8 development squads.
-         - To partner with the units leadership and support structures to drive high standards in execution and delivery.
-         - To own technical consultancy with exiting and potential customers to solve customer problems and bring work into the organisation.
+        Architect aligned to Platform development and modernisation within LIT's architecture team. Suporting:
+         - Driving our Cloud Native Serverless First Adoption 
+         - Suporting the pursuit of engineering excellence through adoption of the Well Architected Framework.
+         - Building Industry Situational Awareness for use in Developing Strategy supporting business development and innovation.
+         - Solutions Architecture for large scale insurance based Products and services
+         - Mentoring and Coaching of Solutions Architects in their day to day challenges.
+         - Contributing to the technical direction of Liberty ITs Digital Transformation vision. To provide thought leadership.
+         - Architectural support and guidance for Liberty IT's Horizon unit containing 9 development squads.
          - To work with teams in the wider organisation, supporting technical initiatives and events.
          - To provide updates to executive teams and other organisational architecture groups.
 
@@ -80,10 +80,11 @@ experiences:
       details: |
         <b>Role and Responsibilities</b>
 
-         - Drive technical best practices within my aligned unit.
+         - Solutions Architecture oversight for a several large scale insurance products.
+         - Ownership for excellence of the technical practices across the 10 aligned teams.
          - Create and drive technical strategies aligned to the vision of the LIT organisation.
-         - Develop engineers capabilities and skills.
-         - Remove barriers to entry for emerging tech in helping our teams adopt new tech.
+         - Create an environment that supports for engineers to develop skills and capabilities.
+         - Adoption of emerging technology in our teams, products and services.
          - Lead consistent high quality solutions to business problems.
          - Review and consult in all technical decisions within the aligned unit.
 
@@ -107,36 +108,28 @@ projects:
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
-      - title: Technical Architecture Modernisation
+      - title: Enterprise Authorisation Enablement
         link: ""
-        tagline: "Working with all teams to develop their business and technical strategies leveraging many various strategic frameworks and techniques along with migration of workloads and skillsets to the cloud."
+        tagline: "Development of Authorisation and Entitlement capabilities for use by all product and service development teams in LM. Technologies used: Auth0, Amazon Cognito, CDK, OAuth2, Vue" 
 
-      - title: Serverless Policy Endorsements
+      - title: Technical Architecture Modernisation (TAM)
         link: ""
-        tagline: "An effort to build apps and api's leveraging AWS serverless technology for endorsing insurance policies online."
+        tagline: "Working with all teams to develop their business and technical strategies leveraging frameworks such as North Star, Wardley Maps and Event Storming, along with the migration of skills and workloads to serverless."
 
-      - title: Auto Damage Inspection Colombia
+      - title: Serverless Policy Endorsements (OPC)
         link: ""
-        tagline: "Mobile client and agent application leveraging serverless architecture and applied artifical intelligence to auto inspect vehicles for damage."
-        
-      - title: Eccommerce Service Tier Modernisation
-        link: "https://eservice.libertymutual.com/"
-        tagline: "An effort to improve the cost effectiveness and performance of the existing enterprise SOA through redevelopment leveraging cloud (PaaS, IaaS) and microservice designs."
+        tagline: "A digital transformation of the insurance endorsement systems through adoption of productised APIs built on Well Architected Serverless implementations. Core Technologies used: CFT, CDK, TypeScript, DynamoDB, Api-Gateway, Lambda, SQS, SNS, CloudWatch, Datadog"
 
-      - title: Platform Unit (Horizon)
-        link: 
-        tagline: "In partnership with the leadership and support teams create a functional unit that specialises in platform and product development.  Set architectural and techncial strategy for driving the success of the unit."
-
+      - title: Auto Damage Inspection Colombia (ADIL)
+        link: ""
+        tagline: "Mobile client and agent application leveraging serverless architecture and applied artifical intelligence to auto inspect vehicles for damage. Core Technologies used: ReactJS, CFT, Api-Gateway, DynamoDB, Lambda, SNS, SQS, Cognito Identity Pools"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Rapid Development (Serverless/Cloud Native)
+      - name: Serverless First Development (Managed Services)
         level: 90%
-
-      - name: Javascript, Node.js, React
-        level: 75%
 
       - name: Cloud Engineering Consultancy
         level: 90%
@@ -147,14 +140,17 @@ skills:
       - name: Software Testing Practices and Disciplines
         level: 75%
 
-      - name: Architecture and Design
+      - name: Service & Product Architecture Design
         level: 85%
 
-      - name: DevOps
-        level: 70%
+      - name: Cloud DevOps
+        level: 90%
 
       - name: Java
         level: 80%
+      
+      - name: Javascript, Node.js, React
+        level: 75%
 
 
 footer: >
