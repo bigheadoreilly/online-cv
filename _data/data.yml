@@ -138,14 +138,6 @@ projects:
         link: ""
         tagline: "Modernising the G-P Continuous Delivery Platform, AWS Organisations, Github Actions, Developer Enablement, Backstage" 
       
-      - title: Liberty Mutual Enterprise Authorisation Enablement
-        link: ""
-        tagline: "Development of Authorisation and Entitlement capabilities for use by all product and service development teams in LM. Technologies used: Auth0, Amazon Cognito, CDK, OAuth2, Vue" 
-
-      - title: Liberty IT Technical Architecture Modernisation (TAM)
-        link: ""
-        tagline: "Working with all teams to develop their business and technical strategies leveraging frameworks such as North Star, Wardley Maps and Event Storming, along with the migration of skills and workloads to serverless."
-
       - title: LM Online Policy Endorsements (OPC)
         link: ""
         tagline: "A digital transformation of the insurance endorsement systems through adoption of productised APIs built on Well Architected Serverless implementations. Core Technologies used: CFT, CDK, TypeScript, DynamoDB, Api-Gateway, Lambda, SQS, SNS, CloudWatch, Datadog"
