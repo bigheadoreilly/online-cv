@@ -35,16 +35,17 @@ sidebar:
         link:
 
 career-profile:
-    title: My Career Profile
+    title: Career Summary
     summary: |
       A Technical Architect specialising in building world class 'Well Architected' Cloud Native products and services.  A budding strategist, highly skilled in many software and product delivery methods such as Lean, Agile, Exploratory and Continuous Delivery. 
       A strong advocate of product over project skilled in product management. Values humility, empathy, integrity and believes in the power of investing in people and the 
       principles of XP (communication, feedback, simplicity, respect and courage).
 
-      For the last two years I have been part of an enterprise technical modernisation programme charged with moving teams and workloads from traditional n-tiered architecture to cloud native implementations (primarily serverless).
-      During this period I have taken on roles such as Solutions Architect, Engineer, Product Owner and Technical & Business Coach, overcoming significant technical and organisational challenges along the way.
+      For the last eight years I have specialised in supporting organisations and teams modernise workloads from traditional n-tiered architecture to modern cloud implementations.
+      During this period I operated in roles such as Solutions Architect, Technical and Software Architect, Engineer, Product Owner and Technical & Business Coach, overcoming significant technical and organisational challenges along the way.
       As well as developing core architectural skills for the serverless paradigm I have also really enjoyed developing my leadership and strategy consultancy skills such as Wardley Maps, Strategy Cycles, Event Storming and North Stars Playbook.
-      Using these skills in bringing IT and Engineering and the Business together has helped me progress in building productive relationships solidified through great business outcomes.
+      Using these skills in bringing IT and Engineering and the Business together has helped me progress in building productive relationships solidified through great business outcomes.  I have been active in the local and global communities sharing my experience
+      in the hope that i can help and learn from others.  In 2022 I was a co-author of the book The Value Flywheel Effect which published by IT Revolution and has been warmly received by the Global Engineering community.
       
 
 education:
@@ -55,6 +56,25 @@ education:
         Acheived 1st class with honours. 
 
 experiences:
+    - role: Software Architect
+      time: July 2021 - Present
+      company: G-P - Globalization Partners
+      details: |
+        <b>Role and Responsibilities</b>
+
+        Architect responsible for Billing, Fintech, Partner Integrations and Emerging Products areas of G-P organisation. Suporting:
+         - Owner of architectural direction and strategy for meeting the business and product needs for the areas above.
+         - Supporting the transition to Event Driven Architecture for all services in the Platform.
+         - Setting and driving architectural move towards Serverless-First SaaS services underpinning the creation of a Global EOR Platform.
+         - Modernising the Billing capabilities, building flexible, scalable and fit for purpose Pricing and Billing Engines.
+         - Introduction of Fintech Driven Payment Transfers and development of new Contractor Product.
+         - Modernisation of the Core Payroll capability and decoupling this as a standalone capability within the G-P Platform.
+         - Driving Billing and Payroll operational efficiencies through modernising and optimising business processes leveraging technology
+         - Introduction of Security Champions initiative for the whole organisation to drive a security culture in our development
+         - Introduction of SCORP for the whole organisation to drive a continuous improvement engineering culture
+         - Organising and running our Technical Leads community
+         - Mentoring and Coaching of Principal and Solutions Architects.
+
     - role: Technical Architect
       time: Jan 2018 - Present
       company: Liberty IT, Belfast
@@ -100,25 +120,37 @@ experiences:
           - Contribution to innovation and LIT’s organization change initiatives
 
 projects:
-    title: Projects
+    title: Notable Engagements
     intro: >
-      Throughout my 15 years in sofware development I have been involved in many different types of project
+      Throughout my 20 years in sofware development I have been involved in many different types of project
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
-      - title: Enterprise Authorisation Enablement
+      - title: G-P Billing and Payroll Modernisation
+        link: ""
+        tagline: "Event Driven Real Time Payroll, Billing and Pricing Capabilities for the G-P Platform supporting a rapidly growing medium Enterprise" 
+        
+     - title: G-P Contractor
+        link: ""
+        tagline: "Integration with G-P Financial Services and external Fintech to build a new Contractor Management Product for G-P"
+        
+      - title: G-P Nova
+        link: ""
+        tagline: "Modernising the G-P Continuous Delivery Platform, AWS Organisations, Github Actions, Developer Enablement, Backstage" 
+      
+      - title: Liberty Mutual Enterprise Authorisation Enablement
         link: ""
         tagline: "Development of Authorisation and Entitlement capabilities for use by all product and service development teams in LM. Technologies used: Auth0, Amazon Cognito, CDK, OAuth2, Vue" 
 
-      - title: Technical Architecture Modernisation (TAM)
+      - title: Liberty IT Technical Architecture Modernisation (TAM)
         link: ""
         tagline: "Working with all teams to develop their business and technical strategies leveraging frameworks such as North Star, Wardley Maps and Event Storming, along with the migration of skills and workloads to serverless."
 
-      - title: Serverless Policy Endorsements (OPC)
+      - title: LM Online Policy Endorsements (OPC)
         link: ""
         tagline: "A digital transformation of the insurance endorsement systems through adoption of productised APIs built on Well Architected Serverless implementations. Core Technologies used: CFT, CDK, TypeScript, DynamoDB, Api-Gateway, Lambda, SQS, SNS, CloudWatch, Datadog"
 
-      - title: Auto Damage Inspection Colombia (ADIL)
+      - title: LM Auto Damage Inspection Colombia (ADIL)
         link: ""
         tagline: "Mobile client and agent application leveraging serverless architecture and applied artifical intelligence to auto inspect vehicles for damage. Core Technologies used: ReactJS, CFT, Api-Gateway, DynamoDB, Lambda, SNS, SQS, Cognito Identity Pools"
 
@@ -126,11 +158,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Serverless First Development (Managed Services)
-        level: 90%
+      - name: Serverless First Development (EventBridge, DynamoDB, SNS, Lambda, SQS, SNS, Step Functions, RDS, Fargate, ECS)
+        level: 100%
 
-      - name: Cloud Engineering Consultancy
-        level: 90%
+      - name: Modern Cloud Engineering Consultancy
+        level: 100%
+
+      - name: Enterprise Event Driven Architecture
+        level: 100%
+
+      - name: Observability through Open Telemetry
+        level: 100%
+
+      - name: Domain Driven Design
+        level: 100%
 
       - name: Agile/Lean Delivery Methods
         level: 75%
@@ -140,14 +181,8 @@ skills:
 
       - name: Service & Product Architecture Design
         level: 85%
-
-      - name: Cloud DevOps
-        level: 90%
-
-      - name: Java
-        level: 80%
       
-      - name: Javascript, Node.js, React
+      - name: TypeScript, JavaScript, Node.js, React
         level: 75%
 
 
