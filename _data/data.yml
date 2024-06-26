@@ -130,7 +130,7 @@ projects:
         link: ""
         tagline: "Event Driven Real Time Payroll, Billing and Pricing Capabilities for the G-P Platform supporting a rapidly growing medium Enterprise" 
         
-     - title: G-P Contractor
+     -  title: G-P Contractor
         link: ""
         tagline: "Integration with G-P Financial Services and external Fintech to build a new Contractor Management Product for G-P"
         
