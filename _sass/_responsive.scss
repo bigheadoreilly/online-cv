@@ -10,6 +10,28 @@
         width: inherit;
     }
 
+    .sidebar-wrapper .profile-container {
+        padding: 15px;
+        display: flex;
+        align-items: center;
+        text-align: left;
+        gap: 15px;
+    }
+
+    .sidebar-wrapper .avatar {
+        max-width: 60px;
+        margin-bottom: 0;
+        flex-shrink: 0;
+    }
+
+    .sidebar-wrapper .container-block {
+        padding: 15px 20px;
+    }
+
+    .sidebar-wrapper .contact-list li {
+        margin-bottom: 8px;
+    }
+
     .main-wrapper {
         padding: 30px;
     }
