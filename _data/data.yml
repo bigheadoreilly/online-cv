@@ -55,10 +55,10 @@ experiences:
       time: July 2021 - Present
       company: G-P - Globalization Partners
       details: |
+         - Since November 2024, serves as principal technical architect for G-P's core EOR product, leading its modernisation into Agentic experiences and a scalable distributed architecture.
          - Owns and drives G-P's AI Modernisation and Transformation agenda — defining architectural strategy and governance frameworks for responsible, organisation-wide AI adoption.
          - Pioneered an Agentic SDLC initiative, embedding AI agents and GenAI tooling into the software delivery lifecycle and advancing engineering velocity through hands-on, experimental practice.
-         - Sets architectural direction across Billing, Fintech, Partner Integrations and Emerging Products, leading the platform transition to Event Driven, Serverless-First SaaS architecture.
-         - Delivered large-scale modernisation of Billing, Pricing and Core Payroll capabilities, enabling a scalable, decoupled Global EOR Platform for a rapidly growing enterprise.
+         - Previously set architectural direction across Billing, Fintech, Partner Integrations and Emerging Products, driving the platform transition to Event Driven, Serverless-First SaaS architecture.
          - Introduced organisation-wide engineering culture programmes: Security Champions, SCORP continuous improvement, and the Technical Leads community.
          - Mentors and develops a team of Principal and Solutions Architects, driving strategic alignment, coaching and career growth across the architecture practice.
 
@@ -93,6 +93,10 @@ projects:
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
+      - title: G-P EOR Product Modernisation
+        link: ""
+        tagline: "Principal technical architect for G-P's core Employer of Record product (from November 2024), leading its transformation into Agentic experiences and a scalable distributed architecture — repositioning a foundational enterprise product for the next generation of AI-driven workforce management."
+
       - title: G-P Agentic SDLC
         link: ""
         tagline: "Pioneering Agentic SDLC practices at G-P — embedding AI agents, GenAI tooling and agentic workflows into the software development lifecycle. Covers AI strategy, governance frameworks, LLM platform evaluation and hands-on integration of AI-assisted engineering into architectural day-to-day practice."
