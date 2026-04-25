@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Michael O'Reilly
-    tagline: Technical Architect
+    tagline: Senior Architect
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,7 +46,11 @@ career-profile:
       As well as developing core architectural skills for the serverless paradigm I have also really enjoyed developing my leadership and strategy consultancy skills such as Wardley Maps, Strategy Cycles, Event Storming and North Stars Playbook.
       Using these skills in bringing IT and Engineering and the Business together has helped me progress in building productive relationships solidified through great business outcomes.  I have been active in the local and global communities sharing my experience
       in the hope that i can help and learn from others.  In 2022 I was a co-author of the book The Value Flywheel Effect which published by IT Revolution and has been warmly received by the Global Engineering community.
-      
+
+      More recently I have been focused on AI Modernisation and Transformation, setting architectural strategy for responsible and effective AI adoption across engineering organisations.
+      I have pioneered Agentic SDLC practices — embedding AI agents and GenAI tooling into the software development lifecycle and architectural workflows through experimental, hands-on approaches.
+      I am passionate about establishing the right governance guardrails to enable teams to adopt AI confidently and safely.
+
 
 education:
     - degree: BSc in Computer Science
@@ -56,7 +60,7 @@ education:
         Acheived 1st class with honours. 
 
 experiences:
-    - role: Software Architect
+    - role: Senior Architect
       time: July 2021 - Present
       company: G-P - Globalization Partners
       details: |
@@ -74,6 +78,10 @@ experiences:
          - Introduction of SCORP for the whole organisation to drive a continuous improvement engineering culture
          - Organising and running our Technical Leads community
          - Mentoring and Coaching of Principal and Solutions Architects.
+         - Leading the AI Modernisation and Transformation agenda, setting architectural direction and strategy for responsible AI adoption across the engineering organisation.
+         - Pioneering an Agentic SDLC initiative — embedding AI agents and agentic workflows into the software delivery lifecycle through experimental approaches and hands-on practice.
+         - Integrating GenAI tooling and AI-assisted practices into day-to-day architectural work, evaluating LLM platforms, AI coding assistants and agentic developer tooling.
+         - Establishing AI governance frameworks, guardrails and responsible-use policies to enable safe and effective adoption of AI capabilities across engineering teams.
 
     - role: Technical Architect
       time: Jan 2018 - Present
@@ -126,6 +134,10 @@ projects:
       and product development efforts. Below are some of my more recent assignments.
 
     assignments:
+      - title: G-P Agentic SDLC
+        link: ""
+        tagline: "Pioneering Agentic SDLC practices at G-P — embedding AI agents, GenAI tooling and agentic workflows into the software development lifecycle. Covers AI strategy, governance frameworks, LLM platform evaluation and hands-on integration of AI-assisted engineering into architectural day-to-day practice."
+
       - title: G-P Billing and Payroll Modernisation
         link: ""
         tagline: "Event Driven Real Time Payroll, Billing and Pricing Capabilities for the G-P Platform supporting a rapidly growing medium Enterprise" 
@@ -176,6 +188,15 @@ skills:
       
       - name: TypeScript, JavaScript, Node.js, React
         level: 75%
+
+      - name: Generative AI & LLM Platform Architecture
+        level: 85%
+
+      - name: Agentic SDLC & AI-Assisted Engineering
+        level: 85%
+
+      - name: AI Governance & Responsible AI Adoption
+        level: 80%
 
 
 footer: >
